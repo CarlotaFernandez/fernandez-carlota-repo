@@ -10,4 +10,3 @@ un hidalgo de los de **head** en **master**,
 
 **git** flaco y **remote** corredor.
 
-`git commit -m “Don Quijote de la Mancha”`
